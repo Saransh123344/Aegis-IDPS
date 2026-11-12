@@ -1,0 +1,8 @@
+services:
+  dpi_engine:
+    build: 
+      context: ./core_dpi
+    network_mode: "host"
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW

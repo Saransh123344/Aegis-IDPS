@@ -1,0 +1,13 @@
+# C++ Build files
+build/
+*.o
+
+# Python / Conda
+__pycache__/
+*.pyc
+.env
+
+# Dynamic Reports
+ai_orchestrator/reports/
+*.logminiconda.sh
+ai_orchestrator/miniconda.sh
