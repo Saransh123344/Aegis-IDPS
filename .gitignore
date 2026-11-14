@@ -11,3 +11,8 @@ __pycache__/
 ai_orchestrator/reports/
 *.logminiconda.sh
 ai_orchestrator/miniconda.sh
+ai_orchestrator/miniconda.sh
+ai_orchestrator/venv/
+ai_orchestrator/aegis_soc.db
+node_modules/
+__pycache__/
